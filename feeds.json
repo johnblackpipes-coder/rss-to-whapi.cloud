@@ -1,11 +1,19 @@
 {
   "feeds": [
     {
-      "url": "https://x.com/SAConfessionsXXX/feed.xml",
+      "url": "https://www.x.com/SAConfessionsXXX",
       "seen": []
     },
     {
-      "url": "https://x.com/TabooSAStories/rss",
+      "url": "https://www.x.com/NaughtySARants",
+      "seen": []
+    },
+    {
+      "url": "https://www.x.com/TabooSAStories",
+      "seen": []
+    },
+    {
+      "url": "https://www.reddit.com/r/SouthAfricaGW",
       "seen": []
     }
   ]
